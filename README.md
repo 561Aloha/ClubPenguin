@@ -31,6 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+https://imgur.com/a/Vtf3Y7o
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Vtf3Y7o" data-context="false" ><a href="//imgur.com/a/Vtf3Y7o"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Describe any challenges encountered while building the app.
